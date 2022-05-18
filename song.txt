@@ -9,4 +9,4 @@ Like a MF riot!
 
 **GUITAR SOLO**
 
-New content to be pushed and reverted
+This is the content for the newly created branch.
