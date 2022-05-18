@@ -1,3 +1,3 @@
 # git-demo
 
-Description, important info
+Master branch readme file
